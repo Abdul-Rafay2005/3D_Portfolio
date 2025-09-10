@@ -119,30 +119,34 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Freelance Frontend Developer",
+    title: "Freelance FullStack Developer",
     company_name: "Self-employed",
     icon: freelance, // Replace with any icon you like
     iconBg: "#0188E3",
-    date: "Jan 2023 - Present",
+    date: "Jan 2024 - Present",
     points: [
-      "Built responsive and interactive web apps using React.js, Tailwind CSS, and GSAP.",
-      "Developed and deployed modern landing pages and portfolio websites for clients.",
-      "Integrated APIs and handled form validation, animations, and smooth scroll effects.",
-      "Delivered pixel-perfect UI designs based on Figma and Adobe XD mockups.",
+      "Built and maintained full-stack web applications using HTML, CSS, JavaScript, and Python.",
+      "Developed responsive front-end interfaces with React.js and Tailwind CSS.",
+      "Designed and managed backend logic, databases, and API integrations.",
+      "Implemented authentication, form validation, and optimized performance for scalability.",
+      "Collaborated on projects combining AI concepts with modern web technologies.",
     ],
+    
   },
   {
-    title: "Full Stack Development Trainee",
-    company_name: "Sheryians Coding School",
+    title: "CSIT STUDENT",
+    company_name: "NED UNIVERSITY",
     icon: sheryians, // Or institute logo
     iconBg: "#ffff",
-    date: "Aug 2023 - Mar 2025",
+    date: "Aug 2024 - AUG 2028",
     points: [
-      "Completed an intensive training program focused on MERN stack development.",
-      "Built multiple full-stack projects, including CRUD apps and authentication systems.",
-      "Worked with tools like Node.js, Express.js, MongoDB, React.js, and Git.",
-      "Gained hands-on experience in deploying apps and following clean code practices.",
-    ],
+      
+        "Pursuing a Bachelor's degree in Computer Science at NED University (2024 - 2028).",
+        "Building a strong foundation in programming, data structures, and algorithms.",
+        "Gaining hands-on experience with C++, Python, and core web technologies (HTML, CSS, JavaScript).",
+        "Exploring interests in Full-Stack Development and Artificial Intelligence.",
+      ],
+      
   },
 ];
 
