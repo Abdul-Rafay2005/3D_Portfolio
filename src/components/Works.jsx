@@ -84,10 +84,10 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] sm:text-[17px] max-w-3xl sm:leading-[30px] leading-1"
         >
-          Here are some of the projects I’ve built using modern web
+          Here are some of the projects I’ve built using modern 
           technologies. From frontend animations to backend logic, With live
           demos and source code provided, these works reflect my hands-on
-          experience in building scalable and maintainable web applications.
+          experience in building scalable and maintainable applications.
         </motion.p>
       </div>
       <div className=" mt-20 flex flex-wrap gap-7">

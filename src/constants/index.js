@@ -23,6 +23,10 @@ import {
   falverra,
   tripguide,
   threejs,
+  python,
+  cpp,
+  psql,
+  gitthub,
 } from "../assets";
 
 export const navLinks = [
@@ -52,7 +56,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Developer",
+    title: "python Developer",
     icon: mobile,
   },
   {
@@ -60,15 +64,15 @@ const services = [
     icon: backend,
   },
   {
-    title: "MERN Stack",
+    title: "FullStack",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "python",
+    icon: python,
   },
   {
     name: "Tailwind CSS",
@@ -84,8 +88,8 @@ const technologies = [
   },
 
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "cpp",
+    icon: cpp,
   },
 
   {
@@ -98,8 +102,8 @@ const technologies = [
   },
 
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "psql",
+    icon: psql,
   },
 
   {
@@ -112,8 +116,8 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "github",
+    icon: gitthub,
   },
 ];
 

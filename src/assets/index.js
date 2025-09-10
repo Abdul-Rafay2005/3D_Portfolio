@@ -58,6 +58,17 @@ const falverra =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
 const tripguide =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tripguide.png?updatedAt=1749961172334";
+const python =
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/ChatGPT%20Image%20Sep%2010,%202025,%2004_51_26%20PM.png?updatedAt=1757506011089";
+
+const cpp =
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/ChatGPT%20Image%20Sep%2010,%202025,%2005_16_25%20PM.png?updatedAt=1757506616314";
+  const psql=
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/ChatGPT%20Image%20Sep%2010,%202025,%2005_17_52%20PM.png?updatedAt=1757506688142";
+
+ const gitthub=
+"https://ik.imagekit.io/3DPortpolio/3dportfolio/ChatGPT%20Image%20Sep%2010,%202025,%2005_25_14%20PM.png?updatedAt=1757507157831";
+
 
 export {
   logo,
@@ -88,4 +99,8 @@ export {
   macbookpro,
   falverra,
   tripguide,
+  python,
+  cpp,
+  psql,
+  gitthub,
 };
