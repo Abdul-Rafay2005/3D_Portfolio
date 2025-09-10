@@ -26,14 +26,11 @@ const Contact = () => {
     e.preventDefault();
     setloading(true);
 
-    // template_49jw5yq
-    // service_9gvq101
-    // 3lDtCP31mFt_52s7F
-
+   
     emailjs
       .send(
-        "service_9gvq101",
-        "template_49jw5yq",
+        "service_t62dp0i ",
+        "template_cdxgx43",
         {
           from_name: form.name,
 
@@ -41,7 +38,7 @@ const Contact = () => {
 
           message: form.message,
         },
-        "3lDtCP31mFt_52s7F"
+        "PeqtRmxMuqTZdnGP6"
       )
       .then(
         () => {
