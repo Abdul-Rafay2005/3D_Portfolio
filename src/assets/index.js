@@ -53,11 +53,11 @@ const freelance =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/images.png?updatedAt=1750261804051";
 
 const macbookpro =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/MacbookPro_TGyn1EY09X.png?updatedAt=1750225807061";
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/Screenshot%202025-09-10%20181945.png?updatedAt=1757510582242";
 const falverra =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/AI_Voice_Commerce_1024x1024.webp?updatedAt=1757510198536";
 const tripguide =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tripguide.png?updatedAt=1749961172334";
+  "https://ik.imagekit.io/3DPortpolio/3dportfolio/RafNabSOLUTIO_Homepage.png?updatedAt=1757509797253";
 const python =
   "https://ik.imagekit.io/3DPortpolio/3dportfolio/ChatGPT%20Image%20Sep%2010,%202025,%2004_51_26%20PM.png?updatedAt=1757506011089";
 
