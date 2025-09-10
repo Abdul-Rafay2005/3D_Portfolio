@@ -179,34 +179,34 @@ const testimonials = [
 
 const projects = [
   {
-    name: "MacBookPro-redesign",
+    name: "Shopping Application",
     description:
-      "A visually engaging website that showcases a redesigned MacBook Pro with smooth animations and a realistic 3D model, offering users an interactive and immersive way to explore the product’s look and features.",
+      "A stylish, fullscreen Shopping Application built with C++ and the Qt framework, designed to provide a smooth user interface for login authentication and navigation into the main shopping interface.",
     tags: [
       {
-        name: "react",
+        name: "C++",
         color: "blue-text-gradient",
       },
       {
-        name: "three.js",
+        name: "C.MAKE",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "QT",
         color: "pink-text-gradient",
       },
     ],
     image: macbookpro,
-    source_code_link: "https://github.com/gitswastik08/macbook_landingpage",
-    live_website_link: "https://macbookpro3d.netlify.app/",
+    source_code_link: "https://github.com/Abdul-Rafay2005/online_shopping_store.",
+    
   },
   {
-    name: "Falverra Redesign",
+    name: "AI Model",
     description:
-      "A sleek and animated website redesign for Falverra, combining a clean layout with smooth transitions to deliver an engaging, modern browsing experience that highlights the brand’s visual identity and message.",
+      "Developed a personal AI model inspired by Jarvis, capable of engaging in natural conversations, answering general and logical queries, and following voice/text commands. The assistant can perform basic PC operations, automate routine tasks, and provide an interactive user experience by combining programming logic with AI techniques.",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
@@ -214,37 +214,37 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "multi-page",
+        name: "javaScript",
         color: "green-text-gradient",
       },
     ],
     image: falverra,
-    source_code_link: "https://github.com/gitswastik08/falverra-redesign",
-    live_website_link: "https://falverra-recode.netlify.app/",
+    source_code_link: "https://github.com/Abdul-Rafay2005/Jarvis",
+    
   },
   {
-    name: "Trip Guide",
+    name: "Business Website ",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Developed a responsive and modern website for Rafnab Solution, a small IT startup and software house, showcasing services, team, and contact features using HTML, CSS, and JavaScript.",
     tags: [
       {
-        name: "nextjs",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "JS",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
     // github link ⬇️
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Abdul-Rafay2005/RafNabWeb",
     // project link ⬇️
-    live_website_link: "https://app.netlify.com/teams/gitswastik08/projects",
+    live_website_link: "https://abdul-rafay2005.github.io/RafNabWeb/",
   },
 ];
 
