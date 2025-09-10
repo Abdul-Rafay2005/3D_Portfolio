@@ -9,11 +9,7 @@ It showcases my skills, projects, and experience with an interactive 3D design a
 
 ---
 
-## 📸 Preview
 
-*(Add a screenshot or GIF of your site here)*
-
----
 
 ## ✨ Features
 
@@ -28,11 +24,12 @@ It showcases my skills, projects, and experience with an interactive 3D design a
 
 ## 🛠️ Tech Stack
 
-* **React.js** – Frontend framework
-* **Three.js / React Three Fiber** – 3D rendering
-* **Framer Motion** – Animations
-* **TailwindCSS** – Styling
-* **EmailJS** – Contact form email service
+* **HTML5** – Markup structure  
+* **JavaScript (ES6+)** – Core programming language  
+* **Three.js / React Three Fiber** – 3D rendering  
+* **Framer Motion** – Animations  
+* **TailwindCSS** – Styling  
+* **EmailJS** – Contact form email service  
 
 ---
 
